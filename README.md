@@ -74,11 +74,3 @@ Furthermore, I have a strong command of the MERN Stack (MongoDB, Express.js, Rea
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />]()
 
-### Github Stats
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=
-AnuragKumar91&show_icons=true&theme=radical" alt="vinishbhaskar" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=
-AnuragKumar91&show_icons=true&locale=en&layout=compact" alt="
-AnuragKumar" /></p>
