@@ -19,9 +19,9 @@ Furthermore, I have a strong command of the MERN Stack (MongoDB, Express.js, Rea
 
 ### How To Reach me
 
-<a href="https://www.linkedin.com/in/anuragkumar91/><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  <b> linkedin.com/@VinishBhaskar </b></a> <br>
+<a href="https://www.linkedin.com/in/anuragkumar91/"> <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  <b> linkedin.com/@anuragkumar91 </b></a> <br>
 
-<a href="https://twitter.com/Anurag_Kumar91"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"><b> twitter.com/@Anurag_Kumar91</b> </a> <br>
+<a href="https://twitter.com/Anurag_Kumar91/"> <img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"><b> twitter.com/@Anurag_Kumar91</b> </a> <br>
 
 <!-- <a href="https://instagram.com/anurag_kumar"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"> -->
 <p align="left"> <a href="https://twitter.com/Anurag_Kumar91" target="blank"><img src="https://img.shields.io/twitter/follow/anurag_kumar?logo=twitter&style=for-the-badge" alt="anurag_kumar" /></a> 
